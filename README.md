@@ -14,4 +14,4 @@ thats all
 ```
 
 ## LICENSE
-See the [LICENSE](./LICENSE) file
+ISC License. Do whatever you want
